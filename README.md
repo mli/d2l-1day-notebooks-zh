@@ -1,9 +1,10 @@
 # d2l-1day-notebooks
 
+**WORK IN PROGRESS**
 
 Notebooks for a 1-day crash course. It aims for teaching deep learning in a single day. This repo contains the notebooks with only simplified code blocks. The texts are also summarized into slides that will be uploaded later.
 
-Check [the wiki page](https://github.com/mli/1day-notebooks/wiki) for instructions to setup the running environments. 
+Check [the wiki page](https://github.com/mli/1day-notebooks/wiki) for instructions to setup the running environments.
 
 ## Part 1: Deep Learning Basic
 
