@@ -53,4 +53,4 @@ Check [the wiki page](https://github.com/mli/1day-notebooks/wiki) for instructio
 | Long Short Term Memory (LSTM)                            | [github](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-4/5-lstm.ipynb) | [nbviewer](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-4/5-lstm.ipynb#/) |
 
 
-Licensed under CC BY-NC-SA.
+Licensed under Apache 2.0
